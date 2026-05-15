@@ -23,13 +23,6 @@ An ML-powered web application that classifies news articles as Real or Fake usin
 4. Logistic Regression model predicts Real or Fake
 5. Confidence score returned and displayed on screen
 
-## ⚙️ Setup Instructions
-```bash
-conda create -n fake-news python=3.11
-conda activate fake-news
-pip install -r requirements.txt
-python app.py
-```
 
 ## 📁 Project Structure
 ```
