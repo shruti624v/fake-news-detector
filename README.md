@@ -38,5 +38,4 @@ fake-news-detector/
 └── requirements.txt
 ```
 
-## 📌 Status
-🔨 Currently under active development
+
