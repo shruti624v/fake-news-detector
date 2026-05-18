@@ -37,5 +37,7 @@ fake-news-detector/
 │   └── style.css       # Styling
 └── requirements.txt
 ```
+## Status
+Currently under active development.
 
 
